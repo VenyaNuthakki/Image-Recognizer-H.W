@@ -1,0 +1,19 @@
+.object_names{
+    font-size: 20px;
+    color:mediumpurple;
+}
+
+body{
+    background: linear-gradient(to left bottom, lightblue,pink, lavender);
+}
+
+#camera, #result{
+    width: 350px;
+    height: 350px;
+    border: dashed 2px aliceblue;
+}
+
+#result_object, #result_accuracy{
+    color: black;
+    font-size: 20px;
+}
